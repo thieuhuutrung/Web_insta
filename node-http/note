@@ -1,0 +1,2 @@
+to start mongodb server, run this command in cmd
+"D:\MongoDB\Server\3.2\bin\mongod.exe" --dbpath D:\MongoDB\Server\3.2\data\db 
